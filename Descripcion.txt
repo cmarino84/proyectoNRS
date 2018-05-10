@@ -1,0 +1,8 @@
+Proyecto NRS. Asignacion de Butacas para Salas de Cine
+
+1. Login de usuarios
+2. Asignacion de Asientos
+3. Hora y fecha de funcion.
+4. Se puede asignar mas de una silla por usuario.
+5. Mysql
+6. Laravel
